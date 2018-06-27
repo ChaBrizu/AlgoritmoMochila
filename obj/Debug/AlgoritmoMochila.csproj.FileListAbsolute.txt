@@ -1,0 +1,7 @@
+C:\Users\Carlos\Documents\GitHub\AlgoritmoMochila\AlgoritmoMochila\bin\Debug\AlgoritmoMochila.exe.config
+C:\Users\Carlos\Documents\GitHub\AlgoritmoMochila\AlgoritmoMochila\bin\Debug\AlgoritmoMochila.exe
+C:\Users\Carlos\Documents\GitHub\AlgoritmoMochila\AlgoritmoMochila\bin\Debug\AlgoritmoMochila.pdb
+C:\Users\Carlos\Documents\GitHub\AlgoritmoMochila\AlgoritmoMochila\obj\Debug\AlgoritmoMochila.csprojAssemblyReference.cache
+C:\Users\Carlos\Documents\GitHub\AlgoritmoMochila\AlgoritmoMochila\obj\Debug\AlgoritmoMochila.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\GitHub\AlgoritmoMochila\AlgoritmoMochila\obj\Debug\AlgoritmoMochila.exe
+C:\Users\Carlos\Documents\GitHub\AlgoritmoMochila\AlgoritmoMochila\obj\Debug\AlgoritmoMochila.pdb
